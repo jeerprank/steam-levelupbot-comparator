@@ -30,3 +30,4 @@ print('The price for one set with TF2 keys will be ' + tffinal + ' ' + currency 
 
 print('The price for one set with gems will be ' + gemfinal + ' ' + currency + ' cents')
 
+input()
