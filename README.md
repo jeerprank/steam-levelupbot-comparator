@@ -1,8 +1,8 @@
 # steam-levelupbot-comparator
 
-**PLEASE TYPE THE PRICES IN CENTS OR IN AMOUNTS WITHOUT DECIMAL POINTS
+**PLEASE TYPE THE PRICES IN CENTS OR IN AMOUNTS WITHOUT DECIMAL POINTS**
 
-_This Python script helps you decide if it is more profitable to buy sets with tf2 keys or with gems.
+_This Python script helps you decide if it is more profitable to buy sets with tf2 keys or with gems._
 
 
 **Helpful links**:  
