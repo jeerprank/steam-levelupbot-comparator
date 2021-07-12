@@ -1,8 +1,11 @@
 # steam-levelupbot-comparator
-This Python script helps you decide if it is more profitable to buy sets with tf2 keys or with gems.
+
+**PLEASE TYPE THE PRICES IN CENTS OR IN AMOUNTS WITHOUT DECIMAL POINTS **
+
+_ _This Python script helps you decide if it is more profitable to buy sets with tf2 keys or with gems._ _
 
 
-Helpful links:  
+**Helpful links**:  
 The site where you can find the most profitable bots https://steam.supply/CardBots
 
 Sack of gems https://steamcommunity.com/market/listings/753/753-Sack%20of%20Gems
